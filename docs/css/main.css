@@ -1,3 +1,11 @@
 .twoRemBottomPad{
     padding-bottom: 2rem;
 }
+
+#leftBox{
+    padding-left: 15px;
+}
+
+#rightBox{
+    padding-right: 15px;
+}
