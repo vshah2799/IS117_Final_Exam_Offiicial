@@ -1,18 +1,15 @@
-.twoRemBottomPad{
-    padding-bottom: 2rem;
-}
-
 #leftBox{
     padding-left: 15px;
 }
-
 #rightBox{
     padding-right: 15px;
-}
-
-.oneRemTopPad{
-    padding-top: 1rem
 }
 #indexRow{
     padding-left: 120px;
 }
+.oneRemTopPad{
+     padding-top: 1rem
+ }
+.twoRemBottomPad{
+      padding-bottom: 2rem;
+  }
